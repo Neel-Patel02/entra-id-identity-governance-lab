@@ -1,0 +1,5 @@
+   # Never publish: script outputs (temp passwords), logs, old drafts
+   output/
+   old/
+   *.log
+   *results*.csv
