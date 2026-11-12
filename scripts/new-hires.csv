@@ -1,0 +1,51 @@
+FirstName,LastName,Department,JobTitle,Country,Manager
+Diana,Prince,Sales,Sales Director,CA,
+Grace,Kim,Finance,Finance Director,CA,
+Marcus,Johnson,Warehouse,Warehouse Manager,CA,
+Sofia,Martinez,IT,IT Manager,CA,
+Maya,Singh,HR,HR Manager,CA,
+Alice,Smith,Sales,Account Executive,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Bob,Jones,Finance,Financial Analyst,CA,Grace.Kim@yourtenant.onmicrosoft.com
+Charlie,Brown,Warehouse,Logistics Coordinator,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Evan,Wright,Finance,Payroll Specialist,CA,Grace.Kim@yourtenant.onmicrosoft.com
+Liam,Chen,Sales,Account Executive,US,Diana.Prince@yourtenant.onmicrosoft.com
+Olivia,Grant,Sales,Account Executive,US,Diana.Prince@yourtenant.onmicrosoft.com
+Jacob,Reid,Sales,Account Manager,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Emma,Clarke,Sales,Sales Coordinator,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Chloe,Nguyen,Sales,Inside Sales Rep,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Daniel,Park,Sales,Inside Sales Rep,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Ryan,Fraser,Sales,Account Manager,GB,Diana.Prince@yourtenant.onmicrosoft.com
+Zoe,Bennett,Sales,Sales Analyst,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Sean,O'Brien,Sales,Account Executive,CA,Diana.Prince@yourtenant.onmicrosoft.com
+Hannah,Lee,Finance,Accountant,,Grace.Kim@yourtenant.onmicrosoft.com
+Aiden,Scott,Finance,Accounts Payable Clerk,CA,Grace.Kim@yourtenant.onmicrosoft.com
+Leah,Morris,Finance,Accounts Receivable Clerk,CA,Grace.Kim@yourtenant.onmicrosoft.com
+Alice,Johnson,Finance,Financial Analyst,CA,Grace.Kim@yourtenant.onmicrosoft.com
+Nora,Hughes,Finance,Financial Analyst,CA,Grace.Kim@yourtenant.onmicrosoft.com
+Ops,Admin,IT,IT Operations Administrator,CA,Sofia.Martinez@yourtenant.onmicrosoft.com
+Kevin,Roberts,IT,Systems Administrator,CA,Sofia.Martinez@yourtenant.onmicrosoft.com
+Priya,Shah,IT,Helpdesk Analyst,CA,Sofia.Martinez@yourtenant.onmicrosoft.com
+Lucas,Dubois,HR,HR Generalist,CA,Maya.Singh@yourtenant.onmicrosoft.com
+Fatima,Ali,HR,Recruiter,CA,Maya.Singh@yourtenant.onmicrosoft.com
+Tyler,Campbell,Warehouse,Forklift Operator,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Jordan,Mitchell,Warehouse,Picker/Packer,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Brandon,Walker,Warehouse,Shipping Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Jasmine,Hall,Warehouse,Receiving Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Andre,Lewis,Warehouse,Inventory Associate,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Carlos,Rivera,Warehouse,Shift Lead,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Dev,Malhotra,Warehouse,Forklift Operator,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Gurpreet,Gill,Warehouse,Picker/Packer,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Hector,Lopez,Warehouse,Shipping Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Ivan,Petrov,Warehouse,Receiving Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Jamal,Davis,Warehouse,Inventory Associate,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Kayla,Young,Warehouse,Shift Lead,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Luis,Garcia,Warehouse,Forklift Operator,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Mohammed,Hassan,Warehouse,Picker/Packer,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Nikhil,Rao,Warehouse,Shipping Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Omar,Siddiqui,Warehouse,Receiving Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Pablo,Santos,Warehouse,Inventory Associate,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Quinn,Foster,Warehouse,Shift Lead,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Raj,Desai,Warehouse,Forklift Operator,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Sana,Khan,Warehouse,Picker/Packer,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Trevor,Price,Warehouse,Shipping Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
+Victor,Moreau,Warehouse,Receiving Clerk,CA,Marcus.Johnson@yourtenant.onmicrosoft.com
